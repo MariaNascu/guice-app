@@ -1,0 +1,8 @@
+com\mycompany\guiceapp\module\ToDoModule.class
+com\mycompany\guiceapp\model\Item.class
+com\mycompany\guiceapp\feature\GuiceFeature.class
+com\mycompany\guiceapp\repository\InMemoryRepo.class
+com\mycompany\guiceapp\App.class
+com\mycompany\guiceapp\repository\GuiceToDoRepository.class
+com\mycompany\guiceapp\service\GuiceToDoService.class
+com\mycompany\guiceapp\controller\JerseyToDoController.class

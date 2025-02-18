@@ -1,0 +1,8 @@
+C:\Users\Maria-PC\Documents\guice-app\src\main\java\com\mycompany\guiceapp\App.java
+C:\Users\Maria-PC\Documents\guice-app\src\main\java\com\mycompany\guiceapp\controller\JerseyToDoController.java
+C:\Users\Maria-PC\Documents\guice-app\src\main\java\com\mycompany\guiceapp\feature\GuiceFeature.java
+C:\Users\Maria-PC\Documents\guice-app\src\main\java\com\mycompany\guiceapp\model\Item.java
+C:\Users\Maria-PC\Documents\guice-app\src\main\java\com\mycompany\guiceapp\module\ToDoModule.java
+C:\Users\Maria-PC\Documents\guice-app\src\main\java\com\mycompany\guiceapp\repository\GuiceToDoRepository.java
+C:\Users\Maria-PC\Documents\guice-app\src\main\java\com\mycompany\guiceapp\repository\InMemoryRepo.java
+C:\Users\Maria-PC\Documents\guice-app\src\main\java\com\mycompany\guiceapp\service\GuiceToDoService.java
